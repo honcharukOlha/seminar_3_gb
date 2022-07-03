@@ -128,8 +128,5 @@ __ВАЖНО!__ При сохранении необходимо писать п
 
     git reset
 
-<<<<<<< HEAD
-=======
 
->>>>>>> conflict
 Для детального ознакомления с командами __git__ воспользуйтесь [ссылкой](https://docs.microsoft.com/ru-ru/azure/devops/repos/git/command-prompt?view=azure-devops "Справочник по командам Git")
